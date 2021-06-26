@@ -84,6 +84,13 @@
   }
 ```
 
+# A fazer
+
+- [ ] Tema escuro
+- [ ] SWA
+- [ ] Adicionar autenticação com o github
+- [ ] Responsivo
+
 # Licença
 
 Free
