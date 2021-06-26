@@ -41,7 +41,7 @@
 
 # Ferramentas
 
-<em>Conceitos abordados no desenvolimento do <code>Letmeask</code></em>
+<em>Conceitos abordados no desenvolvimento do <code>Letmeask</code></em>
 
 - ⚛️ Estrutura do React
 - ⚙️ Componentes
